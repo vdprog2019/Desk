@@ -1,0 +1,650 @@
+.firstLine{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+.firstKv{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+
+.secondKv{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+
+.kv3{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+
+.kv4{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+.kv5{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 200px;
+    margin-top: -50px;
+}
+
+.kv6{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 250px;
+    margin-top: -50px;
+}
+
+.kv7{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 300px;
+    margin-top: -50px;
+}
+
+.kv8{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 350px;
+    margin-top: -50px;
+}
+
+.SecondLine{
+margin-left: 30%;
+}
+
+
+
+.firstKvSecondLine{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}
+
+.secondKvSecondLine{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+
+.kv3SecondLine{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+
+.kv4SecondLine{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+.kv5SecondLine{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 200px;
+    margin-top: -50px;
+}
+
+.kv6SecondLine{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 250px;
+    margin-top: -50px;
+}
+
+.kv7SecondLine{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 300px;
+    margin-top: -50px;
+}
+
+.kv8SecondLine{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 350px;
+    margin-top: -50px;
+}
+
+
+.Line3{
+    margin-left: 30%;
+}
+
+
+.firstKvLine3{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+
+.secondKvLine3{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+
+.kv3Line3{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+
+.kv4Line3{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+.kv5Line3{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 200px;
+    margin-top: -50px;
+}
+
+.kv6Line3{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 250px;
+    margin-top: -50px;
+}
+
+.kv7Line3{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 300px;
+    margin-top: -50px;
+}
+
+.kv8Line3{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 350px;
+    margin-top: -50px;
+}
+
+.Line4{
+    margin-left: 30%;
+}
+
+.firstKvLine4{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}
+
+.secondKvLine4{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+
+.kv3Line4{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+
+.kv4Line4{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+.kv5Line4{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 200px;
+    margin-top: -50px;
+}
+
+.kv6Line4{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 250px;
+    margin-top: -50px;
+}
+
+.kv7Line4{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 300px;
+    margin-top: -50px;
+}
+
+.kv8Line4{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 350px;
+    margin-top: -50px;
+}
+
+
+
+.Line5{
+    margin-left: 30%;
+}
+
+.firstKvLine5{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+
+.secondKvLine5{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+
+.kv3Line5{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+
+.kv4Line5{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+.kv5Line5{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 200px;
+    margin-top: -50px;
+}
+
+.kv6Line5{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 250px;
+    margin-top: -50px;
+}
+
+.kv7Line5{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 300px;
+    margin-top: -50px;
+}
+
+.kv8Line5{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 350px;
+    margin-top: -50px;
+}
+
+
+.Line6{
+    margin-left: 30%;
+}
+
+
+.firstKvLine6{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}
+
+.secondKvLine6{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+
+.kv3Line6{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+
+.kv4Line6{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+.kv5Line6{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 200px;
+    margin-top: -50px;
+}
+
+.kv6Line6{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 250px;
+    margin-top: -50px;
+}
+
+.kv7Line6{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 300px;
+    margin-top: -50px;
+}
+
+.kv8Line6{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 350px;
+    margin-top: -50px;
+}
+
+.Line7{
+    margin-left: 30%;
+}
+
+.firstKvLine7{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+
+.secondKvLine7{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+
+.kv3Line7{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+
+.kv4Line7{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+.kv5Line7{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 200px;
+    margin-top: -50px;
+}
+
+.kv6Line7{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 250px;
+    margin-top: -50px;
+}
+
+.kv7Line7{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 300px;
+    margin-top: -50px;
+}
+
+.kv8Line7{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 350px;
+    margin-top: -50px;
+}
+
+
+.Line8{
+    margin-left: 30%;
+}
+
+
+.firstKvLine8{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}
+
+.secondKvLine8{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+
+.kv3Line8{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+
+.kv4Line8{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+.kv5Line8{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 200px;
+    margin-top: -50px;
+}
+
+.kv6Line8{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 250px;
+    margin-top: -50px;
+}
+
+.kv7Line8{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 300px;
+    margin-top: -50px;
+}
+
+.kv8Line8{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin-left: 350px;
+    margin-top: -50px;
+}
+
+.borderDesk{
+    width: 400px;
+    height: 400px;
+    border: 5px double black;
+    margin-left: 373px;
+    margin-top: -405px;
+}
+
+.borderDesk2{
+    width: 456px;
+    height: 460px;
+    border: 3px double black;
+    margin-left: 346px;
+    margin-top: -438px;
+}
+
+.one{
+    font-size: 20px;
+    margin-left: 357px;
+    margin-top: -65px;
+}
+
+.two{
+    font-size: 20px;
+    margin-left: 357px;
+    margin-top: -77px;
+}
+
+.three{
+    font-size: 20px;
+    margin-left: 357px;
+    margin-top: -73px;
+}
+
+.four{
+    font-size: 20px;
+    margin-left: 357px;
+    margin-top: -75px;
+}
+
+.five{
+    font-size: 20px;
+    margin-left: 357px;
+    margin-top: -73px;
+}
+
+.six{
+    font-size: 20px;
+    margin-left: 357px;
+    margin-top: -72px;
+}
+
+.seven{
+    font-size: 20px;
+    margin-left: 357px;
+    margin-top: -72px;
+}
+
+.eight{
+    font-size: 20px;
+    margin-left: 357px;
+    margin-top: -72px;
+}
+
+.a{
+    font-size: 20px;
+    margin-left: 395px;
+    margin-top: -65px;
+}
+
+.b{
+    font-size: 20px;
+    margin-left: 447px;
+    margin-top: -23px;
+}
+
+.c{
+    font-size: 20px;
+    margin-left: 498px;
+    margin-top: -24px;
+}
+
+.d{
+    font-size: 20px;
+    margin-left: 547px;
+    margin-top: -23px;
+}
+
+.e{
+    font-size: 20px;
+    margin-left: 598px;
+    margin-top: -23px;
+}
+
+.f{
+    font-size: 20px;
+    margin-left: 647px;
+    margin-top: -23px;
+}
+
+.g{
+    font-size: 20px;
+    margin-left: 697px;
+    margin-top: -23px;
+}
+
+.h{
+    font-size: 20px;
+    margin-left: 747px;
+    margin-top: -23px;
+}

@@ -18,6 +18,19 @@
                  grid-area: footer;
              }
              
+             .item6{
+                 grid-area: rightbottomelement;
+             }
+             
+             .item7{
+                 grid-area: leftbottomelement;
+             }
+             
+             .itemFooter{
+                 grid-area: itemFooter;
+                 
+             }
+             
              .container{
                  display: grid;
                  grid-gap: 10px;
@@ -26,7 +39,11 @@
                  grid-template-areas: 
                      'header header header header header header'
                      'menu main main main right right'
-                     'menu footer footer footer footer footer';
+                     'menu footer footer footer footer footer'
+                     'rightbottomelement rightbottomelement rightbottomelement leftbottomelement leftbottomelement leftbottomelement'
+                     'itemFooter itemFooter itemFooter itemFooter itemFooter itemFooter';
+                 
+                     
              }
              .container > div{
                   background-color: azure;
@@ -34,6 +51,19 @@
                  padding: 20px 0;
                  font-size: 30px;
              }
+             .container > footer{
+                 border: 3px solid green;
+                 font-size: 50px;
+                 font-style: italic;
+                 background-color: lightgreen;
+                 
+             }
+             
+             .container > footer:hover{
+                 color: white;
+                 
+             }
+             
       </style>
   </head>  
   <body>
@@ -44,7 +74,9 @@
       <div class="item3">Main</div>
       <div class="item4">Right</div>
       <div class="item5">Footer</div>
-      <footer>Create by PtpJam</footer>
+      <div class="item6">RightBottomElement</div>
+      <div class="item7">LeftBottomElement</div>
+      <footer class="itemFooter">Hello from Mars</footer>
   </div>
 
     

@@ -2,49 +2,50 @@
   <head>
      
          <style> 
+             .item1{
+                 grid-area: header;
+             }
+             .item2{
+                 grid-area: menu;
+             }
+             .item3{
+                 grid-area: main;
+             }
+             .item4{
+                 grid-area: right;
+             }
+             .item5{
+                 grid-area: footer;
+             }
+             
              .container{
-                 display: inline-grid;
-                 grid-template-columns: auto auto auto;
-                 grid-column-gap: 50px;
-                 grid-row-gap: 50px;
-                 background-color: #00ff00;
+                 display: grid;
+                 grid-gap: 10px;
+                 background-color: blueviolet;
                  padding: 10px;
-                 justify-content: flex-start;
+                 grid-template-areas: 
+                     'header header header header header header'
+                     'menu main main main right right'
+                     'menu footer footer footer footer footer';
              }
-             .container-item{
-                 background-color: rgba(255,255,255, 0.6);
-                 border: 1px solid rgba(0,0,0,0.4);
-                 padding: 20px;
-                 font-size: 30px;
+             .container > div{
+                  background-color: azure;
                  text-align: center;
-             }
-             .spec-class{
-                 grid-area: 1 / 2 / 3 / 6;
-                
+                 padding: 20px 0;
                  font-size: 30px;
-                 text-align: center;
-                  border: 1px solid;
              }
       </style>
   </head>  
   <body>
     
-    <div class="container">
-      <div class="container-item">2</div>
-      <div class="container-item">3</div>
-      <div class="container-item">4</div>
-      <div class="container-item">5</div>
-      <div class="container-item">6</div>
-       <div class="container-item">7</div>
-      <div class="spec-class">8</div>
-      <div class="container-item">9</div>
-      <div class="container-item">10</div>
-      <div class="container-item">11</div>
-      <div class="container-item">12</div>
-      <div class="container-item">13</div>
-      <div class="container-item">14</div>
-      <div class="container-item">15</div>
-    </div>
+  <div class = "container">
+      <div class="item1">Header</div>
+      <div class="item2">Menu</div>
+      <div class="item3">Main</div>
+      <div class="item4">Right</div>
+      <div class="item5">Footer</div>
+      <footer>Create by PtpJam</footer>
+  </div>
 
     
   </body>    
